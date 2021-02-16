@@ -58,4 +58,4 @@ fetch(
 );
 ```
 
-Your subtitles settings should now persist over time!
+Your subtitle settings should now persist over time!
